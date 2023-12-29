@@ -258,5 +258,28 @@ font-size:32px;
 
 @media screen and (max-width: 480px) 
 {
+#as{
 
+top:10px;
+left:500px;
+font-size:10px;
+}
+
+#oc{
+top:10px;
+left:560px;
+font-size:10px;
+}
+
+#cs{
+top:10px;
+left:620px;
+font-size:10px;
+}
+
+#qs{
+top:10px;
+left:30px;
+font-size:20px;
+}
 }
